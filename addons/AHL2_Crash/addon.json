@@ -1,0 +1,15 @@
+{
+	"title"		:	"AHL2_Crash",
+	"type"		:	"map",
+	"tags"		:	[ "fun", "movie" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.txt*",
+		"*.dua*",
+		"*-temp-*",
+		"*.ztmp*"
+	]
+}

@@ -1,0 +1,16 @@
+[h3][b][i]Action Half-Life 2 - Crash[/i][/b][/h3]
+[h4][b][i]A Plane Carrying Black Market Weapons Has Crashed! Fight![/i][/b][/h4]
+
+AHL2_Crash from the great Source mod Action Half-Life 2.
+
+This is a version for Garry's Mod, which adds a map icon and a spawn config for TTT.
+
+[url=http://www.moddb.com/mods/action-halflife-2/][b]Download AHL2 Here![/b][/url]
+[url=https://garrysmods.org/collection/1757/action-half-life-2][b]View the Collection Here![/b][/url]
+
+[h4][b][i]CREDITS[/i][/b][/h4]
+
+Bantam @ Map
+BeerDog @ Cleanup and Compile
+Mission D. @ Thunder Sound
+V92 @ Map Icon, TTT config
